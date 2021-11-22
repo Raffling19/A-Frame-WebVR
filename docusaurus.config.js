@@ -25,6 +25,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/raffling19/a-frame/edit/main',
+          path: "docs",
+          routeBasePath: "docs/"
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
