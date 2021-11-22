@@ -9,7 +9,7 @@ const config = {
   title: 'A-Frame',
   tagline: 'A-Frame for creating 3d environments',
   url: 'https://raffling19.github.io',
-  baseUrl: '/A-Frame-WebVR/',
+  baseUrl: '/a-frame/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
