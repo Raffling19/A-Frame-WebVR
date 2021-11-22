@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/raffling19/a-frame/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -37,7 +37,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'A-Frame',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -51,7 +51,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/raffling19/a-frame/',
             label: 'GitHub',
             position: 'right',
           },
