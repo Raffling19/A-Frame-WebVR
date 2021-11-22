@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunka_frame=self.webpackChunka_frame||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"intro","href":"/a-frame/course/intro"}]}}')}}]);
