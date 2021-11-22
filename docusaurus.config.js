@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'A-Frame',
   tagline: 'A-Frame for creating 3d environments',
-  url: 'https://raffling19.github.io',
+  url: 'https://Raffling19.github.io',
   baseUrl: '/a-frame/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'raffling19', // Usually your GitHub org/user name.
+  organizationName: 'Raffling19', // Usually your GitHub org/user name.
   projectName: 'a-frame', // Usually your repo name.
 
   presets: [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/raffling19/a-frame/edit/main',
+          editUrl: 'https://github.com/Raffling19/a-frame/edit/main',
           path: "docs",
           routeBasePath: "docs/"
         },
@@ -53,7 +53,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/raffling19/a-frame/',
+            href: 'https://github.com/Raffling19/a-frame/',
             label: 'GitHub',
             position: 'right',
           },
