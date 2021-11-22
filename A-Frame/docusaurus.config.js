@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'A-Frame',
   tagline: 'A-Frame for creating 3d environments',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://raffling19.github.io',
+  baseUrl: '/A-Frame-WebVR/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'gu', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'raffling19', // Usually your GitHub org/user name.
+  projectName: 'a-frame', // Usually your repo name.
 
   presets: [
     [
