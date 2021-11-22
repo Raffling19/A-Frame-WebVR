@@ -38,6 +38,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "dark",
+        respectPrefersColorScheme: true
+      },
+      hideableSidebar: true,
       navbar: {
         title: 'A-Frame',
         logo: {
@@ -63,7 +68,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    
+
     themes: ['@docusaurus/theme-live-codeblock'],
     trailingSlash: false,
 };
